@@ -1,4 +1,4 @@
-# 8bit-multiplexed-alu-proteus
+# 8bit-multiplexed-alu-proteus-Without-arduino
 Designed and simulated a fully functional 8-bit Arithmetic Logic Unit using discrete digital logic and multiplexers in Proteus.
 # 8-Bit Multiplexed ALU with 7-Segment Display (Proteus Simulation)
 
